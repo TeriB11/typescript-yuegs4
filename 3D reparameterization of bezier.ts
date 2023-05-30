@@ -10,6 +10,7 @@
 This code defines and implements all the necessary functions to reparameterize a 3D Bézier curve by arc length. The example at the end demonstrates how to use these functions to find the point on the curve corresponding to half the total arc length.*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 // A point in 3D space
 type Point3D = {
   x: number;
